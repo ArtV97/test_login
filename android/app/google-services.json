@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1078719278719",
+    "firebase_url": "https://phrase-of-the-day.firebaseio.com",
+    "project_id": "phrase-of-the-day",
+    "storage_bucket": "phrase-of-the-day.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078719278719:android:0fd3d53493ad5006",
+        "android_client_info": {
+          "package_name": "com.example.phrase_of_the_day"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078719278719-gcd7oo5cv01v9vntq6tr8h75tl331kuf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phrase_of_the_day",
+            "certificate_hash": "057a8a2783a543cfe2f54e877007d9f9c5974546"
+          }
+        },
+        {
+          "client_id": "1078719278719-3j4o782ibbteaplgcvnata85cp37kr0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHnzV1OxIV1DJULvI6WYfCMVtW6pb66Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078719278719-3j4o782ibbteaplgcvnata85cp37kr0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
